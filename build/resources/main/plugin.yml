@@ -1,0 +1,8 @@
+name: HappyPrefixes
+version: '0.1-BETA'
+main: nl.astrosmp.happyPrefixes.HappyPrefixes
+api-version: '1.21'
+authors: [ Sven ]
+commands:
+  prefix:
+  prefixreload:
